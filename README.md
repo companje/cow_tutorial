@@ -19,7 +19,7 @@ pip3 install cow-csvw
 
 _create metadata file (the recipe)_
 ```
-cow build db_harderwijk_1888_1909.csv
+cow_tool build db_harderwijk_1888_1909.csv
 ```
 
 _inspect the metadata-json or edit it, see [here](https://github.com/clariah/cow/wiki) how to_
