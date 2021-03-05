@@ -1,5 +1,5 @@
 # cow_tutorial
-[CoW](https://github.com/CLARIAH/COW) :cow: is a csv to Linked Data converter with user documentation [here](https://github.com/clariah/cow/wiki) and developer documentation in [readthedocs](https://csvw-converter.readthedocs.io/en/latest/) and [pypi](https://pypi.org/project/cow-csvw/). 
+[CoW](https://github.com/CLARIAH/COW) :cow: is a csv to Linked Data converter with [wiki](https://github.com/clariah/cow/wiki) user documentation and developer documentation in [readthedocs](https://csvw-converter.readthedocs.io/en/latest/) and [pypi](https://pypi.org/project/cow-csvw/). 
 CoW is intended for anyone who has Python installed, can use the command line and can edit a text file.
 
 # getting started
