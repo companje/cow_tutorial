@@ -7,7 +7,8 @@ Open a terminal and follow the commands below. [Call for help](https://github.co
 
 
 _in a terminal clone this repository_
-```git clone https://github.com/rlzijdeman/cow_tutorial.git
+```
+git clone https://github.com/rlzijdeman/cow_tutorial.git
 cd cow_tutorial
 ```
 
