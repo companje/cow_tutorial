@@ -21,7 +21,7 @@ _create metadata file (the recipe)_
 cow build db_harderwijk_1888_1909.csv
 ```
 
-_inspect the metadata-json or edit it, see [here](https://github.com/clariah/cow/wiki)_
+_inspect the metadata-json or edit it, see [here](https://github.com/clariah/cow/wiki) how to_
 ```
 less db_harderwijk_1888_1909.csv-metadata.json
 ```
