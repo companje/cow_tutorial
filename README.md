@@ -1,6 +1,6 @@
 # cow_tutorial
 [CoW](https://github.com/CLARIAH/COW) :cow: is a csv to Linked Data converter with [wiki](https://github.com/clariah/cow/wiki) user documentation and developer documentation in [readthedocs](https://csvw-converter.readthedocs.io/en/latest/) and [pypi](https://pypi.org/project/cow-csvw/). 
-CoW is intended for anyone who has Python installed, can use the command line and can edit a text file. Examples of CoW conversions can be found [here](https://github.com/CLARIAH/wp4-cow-conversions). CoW is amongst others being used to transpose the [Dutch civil registry](https://repository.ubn.ru.nl/bitstream/handle/2066/225728/225728pub.pdf?sequence=1) to Linked Data.
+CoW is intended for anyone who has Python installed, can use the command line and can edit a text file. Examples of CoW conversions can be found [here](https://github.com/CLARIAH/wp4-cow-conversions). CoW is amongst others being used to transpose part of the [Dutch civil registry](https://repository.ubn.ru.nl/bitstream/handle/2066/225728/225728pub.pdf?sequence=1) to Linked Data.
 
 # getting started
 Open a terminal and follow the commands below. [Call for help](https://github.com/CLARIAH/COW/issues/new), if you get stuck.
