@@ -6,32 +6,32 @@ CoW is intended for anyone who has Python installed, can use the command line an
 Open a terminal and follow the commands below. [Call for help](https://github.com/CLARIAH/COW/issues/new), if you get stuck.
 
 
-# in a terminal clone this repository
+_in a terminal clone this repository_
 ```git clone https://github.com/rlzijdeman/cow_tutorial.git
 cd cow_tutorial
 ```
 
-# next install cow using [pypi](https://pypi.org/project/cow-csvw/)
+_next install cow using [pypi](https://pypi.org/project/cow-csvw/)_
 ```
 pip3 install cow-csvw
 ```
 
-# create metadata file (the recipe)
+_create metadata file (the recipe)_
 ```
 cow build db_harderwijk_1888_1909.csv
 ```
 
-# inspect the metadata-json or edit it. for help see https://github.com/clariah/cow/wiki
+_inspect the metadata-json or edit it, see [here](https://github.com/clariah/cow/wiki)_
 ```
 less db_harderwijk_1888_1909.csv-metadata.json
 ```
 
-# create triples from the csv using the metadata.json file as recipe
+_create triples from the csv using the metadata.json file as recipe_
 ```
 cow_tool convert db_harderwijk_1888_1909.csv
 ```
 
-# inspect triples
+_inspect triples_
 ```
 less db_harderwijk_1888_1909.csv.nq
 ```
